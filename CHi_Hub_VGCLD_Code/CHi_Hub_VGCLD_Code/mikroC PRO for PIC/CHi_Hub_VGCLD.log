@@ -1,0 +1,178 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F87K22 -DL -O11111114 -fo48 -N"C:\Users\mike\Desktop\Projects\CHi_Chair\SmartGLCD Hub\CHi_Hub_VGCLD_Code\CHi_Hub_VGCLD_Code\mikroC PRO for PIC\CHi_Hub_VGCLD.mcppi" -SP"C:\Users\mike\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\mike\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\mike\Desktop\Projects\CHi_Chair\SmartGLCD Hub\CHi_Hub_VGCLD_Code\CHi_Hub_VGCLD_Code\mikroC PRO for PIC\" -IP"C:\Users\mike\Desktop\Projects\CHi_Chair\SmartGLCD Hub\CHi_Hub_VGCLD_Code\CHi_Hub_VGCLD_Code\mikroC PRO for PIC\" "CHi_Hub_VGCLD_main.c" "CHi_Hub_VGCLD_events_code.c" "CHi_Hub_VGCLD_driver.c" "CHi_Hub_VGCLD_resources.c" "Misc_functions.c" "RF_Init_Routines.c" "RF_Misc_Routines.c" "RF_ReadWrite_Routines.c" "RF_Reset_Routines.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Trigonometry.mcl" "__Lib_ADC_K22.mcl" "__Lib_EEPROM_1024.mcl" "__Lib_PWM_K90.mcl" "__Lib_SPI_c345d654.mcl" "__Lib_T6963C.mcl" "__Lib_TouchPanel.mcl"	 
+hint: 0	1139	Available RAM: 3841 [bytes], Available ROM: 131072 [bytes]	 
+diagnostics: 0	122	Compilation Started	__t6963c.h
+diagnostics: 315	123	Compiled Successfully	CHi_Hub_VGCLD_main.c
+diagnostics: 0	122	Compilation Started	__t6963c.h
+diagnostics: 798	123	Compiled Successfully	CHi_Hub_VGCLD_events_code.c
+hint: 31	1164	Variable 'text_length' has been eliminated by optimizer	CHi_Hub_VGCLD_events_code.c
+hint: 53	1164	Variable 'text_length' has been eliminated by optimizer	CHi_Hub_VGCLD_events_code.c
+diagnostics: 0	122	Compilation Started	__t6963c.h
+warning: 127	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 127	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 127	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 127	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 158	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 158	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 158	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 176	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 176	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 194	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 194	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 212	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 212	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 212	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 212	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 232	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 232	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 232	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 232	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 252	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 252	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 270	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 270	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 270	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 270	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 290	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 290	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 290	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 290	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 364	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 364	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 364	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 364	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 460	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 460	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 460	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 460	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 480	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 480	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 480	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 480	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 500	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 500	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 500	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 500	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 520	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 520	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 520	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 520	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 540	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 540	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 540	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 540	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 560	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 560	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 560	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 560	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 580	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 580	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 580	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 580	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 661	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 661	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 661	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 661	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 681	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 681	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 681	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 681	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 737	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 737	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 737	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 757	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 757	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 757	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 757	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 779	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 779	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 779	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 801	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 801	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 801	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 823	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 823	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 823	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 845	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 845	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 845	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 865	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 865	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 865	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 865	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 903	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 903	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 903	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 923	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 923	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 923	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 923	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 943	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 943	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 943	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 943	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 965	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 965	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 965	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 987	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 987	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 987	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1009	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1009	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1009	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1031	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1031	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1031	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1053	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1053	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1053	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1075	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1075	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1075	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1097	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1097	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1097	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1117	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1117	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1117	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+warning: 1117	1506	Implicit conversion of pointer to int	CHi_Hub_VGCLD_driver.c
+diagnostics: 2828	123	Compiled Successfully	CHi_Hub_VGCLD_driver.c
+diagnostics: 0	122	Compilation Started	CHi_Hub_VGCLD_resources.c
+diagnostics: 1117	123	Compiled Successfully	CHi_Hub_VGCLD_resources.c
+diagnostics: 0	122	Compilation Started	__t6963c.h
+diagnostics: 508	123	Compiled Successfully	Misc_functions.c
+diagnostics: 0	122	Compilation Started	global_defs.h
+diagnostics: 112	123	Compiled Successfully	RF_Init_Routines.c
+diagnostics: 0	122	Compilation Started	rf_readwrite_routines.h
+diagnostics: 450	123	Compiled Successfully	RF_Misc_Routines.c
+hint: 79	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 123	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 143	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 157	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 171	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 186	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 194	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 205	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 213	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 224	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 242	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 263	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 295	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 335	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+hint: 367	1164	Variable 'temp' has been eliminated by optimizer	RF_Misc_Routines.c
+diagnostics: 0	122	Compilation Started	rf_misc_routines.h
+diagnostics: 216	123	Compiled Successfully	RF_ReadWrite_Routines.c
+hint: 38	1164	Variable 'data_r' has been eliminated by optimizer	RF_ReadWrite_Routines.c
+hint: 55	1164	Variable 'address_high' has been eliminated by optimizer	RF_ReadWrite_Routines.c
+hint: 70	1164	Variable 'data_r' has been eliminated by optimizer	RF_ReadWrite_Routines.c
+hint: 71	1164	Variable 'address_high' has been eliminated by optimizer	RF_ReadWrite_Routines.c
+hint: 89	1164	Variable 'temp' has been eliminated by optimizer	RF_ReadWrite_Routines.c
+hint: 100	1164	Variable 'temp' has been eliminated by optimizer	RF_ReadWrite_Routines.c
+diagnostics: 0	122	Compilation Started	rf_readwrite_routines.h
+diagnostics: 43	123	Compiled Successfully	RF_Reset_Routines.c
+diagnostics: 0	127	All files Compiled in 952 ms	 
+hint: 0	1144	Used RAM (bytes): 2901 (76%)  Free RAM (bytes): 940 (24%)	Used RAM (bytes): 2901 (76%)  Free RAM (bytes): 940 (24%)
+hint: 0	1144	Used ROM (bytes): 54675 (42%)  Free ROM (bytes): 76397 (58%)	Used ROM (bytes): 54675 (42%)  Free ROM (bytes): 76397 (58%)
+diagnostics: 0	125	Project Linked Successfully	CHi_Hub_VGCLD.mcppi
+diagnostics: 0	128	Linked in 343 ms	 
+diagnostics: 0	129	Project 'CHi_Hub_VGCLD.mcppi' completed: 1342 ms	 
+diagnostics: 0	103	Finished successfully: 24 Aug 2016, 20:14:01	CHi_Hub_VGCLD.mcppi
